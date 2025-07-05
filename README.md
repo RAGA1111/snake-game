@@ -35,5 +35,5 @@ python "snake game.py"
 ![Gameplay](gameplay.png)
 
 ### Game Over Screen
-![Game Over](gameover.png)
+![Game Over](gameover.png) 
 
