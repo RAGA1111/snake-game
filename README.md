@@ -13,7 +13,7 @@ This is a simple Snake game I built using Python and Tkinter. It's just like the
 
 ---
 
-## ▶️ How to Run the Game
+##  How to Run the Game
 
 Make sure you have Python installed on your system.
 
