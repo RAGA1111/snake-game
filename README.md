@@ -36,4 +36,4 @@ python "snake game.py"
 
 ### Game Over Screen
 ![Game Over](gameover.png) 
-
+.
