@@ -2,14 +2,7 @@ from tkinter import *
 import random
 
 # constants
-GAME_WIDTH = 600
-GAME_HEIGHT = 600
-GAME_SPEED = 100
-SPACE_SIZE = 50
-BODY_PARTS = 3
-SNAKE_COLOR = "#00e6b8"
-BACKGROUND_COLOR = "#001f2d"
-FOOD_COLOR = "#1ea1a1"
+
 
 # snake class
 class Snake:
