@@ -1,6 +1,6 @@
 # Snake Game in Python 🐍
 
-Hey there!  
+Hey there..!  
 This is a simple Snake game I built using Python and Tkinter. It's just like the classic one, but with a clean ocean-style color theme and a smooth GUI.
 
 ---
