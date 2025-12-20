@@ -1,6 +1,6 @@
 from tkinter import * 
-import random
-
+import random 
+import numpy
 # constants
 GAME_WIDTH = 600
 GAME_HEIGHT = 600
