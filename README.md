@@ -5,11 +5,11 @@ This is a simple Snake game I built using Python and Tkinter. It's just like the
 
 ---
 
-## 🎮 Features
+## Features
 - Arrow key controls to move the snake
 - Start and Restart buttons
 - Score tracker
-- Aesthetic ocean vibe 🌊
+- Aesthetic ocean vibe 
 
 ---
 
@@ -23,17 +23,23 @@ Then:
 2. Open a terminal inside the project folder
 3. Run this command:
 
-```bash
+
 python "snake game.py"
 
-## 📸 Screenshots
 
-### Start Screen
-![Start Screen](start.png)
 
-### Gameplay
-![Gameplay](gameplay.png)
+###  Start Screen
+<p align="center">
+  <img src="start.png" width="400"/>
+</p>
 
-### Game Over Screen
-![Game Over](gameover.png) 
-.
+###  Gameplay
+<p align="center">
+  <img src="gameplay.png" width="400"/>
+</p>
+
+###  Game Over Screen
+<p align="center">
+  <img src="gameover.png" width="400"/>
+</p>
+
